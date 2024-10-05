@@ -17,7 +17,7 @@ const Header = () => {
 		<span className="flex items-center justify-center w-14 h-14 font-semibold border rounded-full bg-black text-white text-center text-sm">10+ clients</span>
 	</div>
 </div>
-      <h1 className="text-7xl font-bold">Next-Gen
+      <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold">Next-Gen
 Storytelling
 Digital Agency</h1>
       <p className="py-6 font-medium text-[#6F6F6F]">
