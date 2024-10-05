@@ -1,11 +1,12 @@
-import HeaderStyleForH2 from "../Componnets/HeaderStyleForH2";
+import HeaderText from "../Componnets/HeaderText";
 
 
 const Global_brand_Section = () => {
     return (
         <div className="bg-[#f8f8f8] py-10 md:py-20 lg:py-30">
-            <HeaderStyleForH2></HeaderStyleForH2>
-            <p className="py-6 font-medium text-[#6F6F6F] text-center">Crafting compelling digital experiences that captivate audiences and drive meaningful connections.</p>
+            <HeaderText title="We're thrilled to partner with some of
+the biggest global brands" description={"Crafting compelling digital experiences that captivate audiences and drive meaningful connections."}></HeaderText>
+
             <div className="flex  flex-col md:flex-col lg:flex-row gap-10 items-center justify-center">
                 <img src="https://i.ibb.co.com/0YPsQ5b/image-3.png" alt="" />
                 <img src="https://i.ibb.co.com/sby41VQ/image-4.png" alt="" />
