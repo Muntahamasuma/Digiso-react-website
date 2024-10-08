@@ -1,5 +1,6 @@
 
 
+import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
 import Nav from "../Navbar/Nav";
 import Feature_Services from "../section/Feature_Services";
@@ -19,6 +20,7 @@ const Home = () => {
         <Recent_Studies></Recent_Studies>
         <StepByStep_section></StepByStep_section>
         <Review_section></Review_section>
+        <Footer></Footer>
         </>
     );
 };

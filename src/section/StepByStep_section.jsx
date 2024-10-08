@@ -8,8 +8,8 @@ const StepByStep_section = () => {
             title={"We work for better growing result step by step"}
             description={"Crafting compelling digital experiences that captivate audiences and drive meaningful connections."}></HeaderText>
             {/* cards */}
-            <div className="max-w-screen-xl m-auto my-20">
-  <div className="grid grid-rows lg:grid-cols-2 font p-4 gap-8 lg:gap-0">
+            <div className="max-w-screen-xl m-auto my-10 lg:my-20">
+  <div className="grid grid-rows lg:grid-cols-2 font p-4 gap-6 lg:gap-0">
 
     <div className="p-10 space-y-4 bg-gray-950 text-white border-black border rounded-tr-2xl rounded-bl-2xl">
       <h1 className="text-6xl pb-16 font-bold">01</h1>

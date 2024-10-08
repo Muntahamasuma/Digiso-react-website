@@ -3,11 +3,11 @@
 
 const Review_section = () => {
     return (
-        <div className=" py-20 bg-[#FBFBFB]">
-           <div className="flex flex-col lg:flex-row items-center gap-20 font max-w-screen-xl m-auto p-4 pb-10">
+        <div className="py-10 lg:py-20 bg-[#FBFBFB]">
+           <div className="flex flex-col lg:flex-row items-center gap-10 lg:gap-20 font max-w-screen-xl m-auto p-4 pb-10">
                 <h2 className="text-3xl lg:text-5xl text-center lg:text-left font-bold">What our clients and
                 partners reviews</h2>
-                <div>
+                <div className="text-center lg:text-left">
                 <p className="pb-4 font-medium text-[#6F6F6F] text-center lg:text-left">Crafting compelling digital experiences that captivate audiences and drive meaningful connections.</p>
                 <button className="hover:underline cursor-pointer font-semibold text-lg">View All Blogs</button>
                 </div>
